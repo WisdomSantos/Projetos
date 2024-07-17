@@ -1,1 +1,1 @@
-c
+print ("Hello World")
